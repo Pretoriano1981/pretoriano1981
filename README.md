@@ -13,3 +13,10 @@ Mario Castro Hernandez
 
 ### Vias de Contactos
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100002999975354)
+
+
+### :zap: MI ACTIVIDAD RECIENTE
+
+<!--START_SECTION:ACTIVITY-->
+
+<!--END_SECTION:ACTIVITY-->
