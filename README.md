@@ -18,4 +18,4 @@ Mario Castro Hernandez
 ### :zap: MI ACTIVIDAD RECIENTE
 
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:LAST_UPDATE-->
+<!--RECENT_ACTIVITY:last_update-->
